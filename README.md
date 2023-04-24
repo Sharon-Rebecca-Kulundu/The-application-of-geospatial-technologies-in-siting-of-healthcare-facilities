@@ -1,4 +1,8 @@
-### The application of geospatial technologies in siting of healthcare facilities
+# The application of geospatial technologies in siting of healthcare facilities
+
+
+![Healthcare](https://cdn05.allafrica.com/download/pic/main/main/csiid/00410905:d615a7142572503f7fcf64cb25deed39:arc614x376:w735:us1.jpg)
+
 Planning the location of healthcare facilities is a very important aspect of ensuring equitable access to healthcare facilities.
 
 Despite the importance of good health and well-being, the country and to be more specific Kajiado County is far from having equitable access to health facilities. The location of these health facilities does not correspond to the needs of the population in Kajiado County.
